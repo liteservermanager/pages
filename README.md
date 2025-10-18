@@ -9,10 +9,8 @@
 
 ## Documentation
 ### Screenshoot
-<img width="893" height="636" alt="image" src="https://github.com/user-attachments/assets/d0b264ee-24e7-4239-8103-f14fb59d78f1" /></br>
-
-<img width="893" height="647" alt="image" src="https://github.com/user-attachments/assets/38bc4ba3-e11a-40ea-84c5-06ba04ee5489" />
-
+<img width="893" height="636" alt="image" src="https://github.com/user-attachments/assets/13325668-8a7d-4e17-bc73-2314357309a0" /></br>
+<img width="893" height="647" alt="image" src="https://github.com/user-attachments/assets/5409229e-784e-4030-a829-8fed4caaa9f1" />
 
 ## Features:
  - Single-file PHP file manager
@@ -25,3 +23,4 @@
  - Change Permission File / Folder (chmod)
 
  > supported litespeed server, 403 forbiden,404 forbiden etc
+
