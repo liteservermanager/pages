@@ -13,13 +13,15 @@
 <img width="893" height="647" alt="image" src="https://github.com/user-attachments/assets/5409229e-784e-4030-a829-8fed4caaa9f1" />
 
 ## Features:
- - Single-file PHP file manager
+ - Single file manager
  - Login
  - Upload / Download / Delete / Rename / Unzip
  - Create New Folder
  - Create New File
  - Edit file with Save and Save & Continue Editing
- - Optional command execution
+ - Optional command execution (limited)
+ - Upload files max 80MB
  - Change Permission File / Folder (chmod)
-
+ - Current dir (No)
  > supported litespeed server, 403 forbiden,404 forbiden etc
+
